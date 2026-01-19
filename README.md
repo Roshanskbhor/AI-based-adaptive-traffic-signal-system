@@ -9,7 +9,8 @@ Unlike traditional fixed-time traffic lights, this system responds to actual tra
 
 
 System Architecture
-![image alt](https://github.com/Roshanskbhor/AI-based-adaptive-traffic-signal-system/blob/8ef6aed291357184681d5f8fce77b3d31c396bfd/Prototype_picture.jpeg)
+![image alt](https://github.com/Roshanskbhor/AI-based-adaptive-traffic-signal-system/blob/5544415bded202fefc64322aaada7c81ba1b7f68/System_architecture.jpeg)
+
 The system consists of three major components:
 
 1]ESP32 Traffic Controller
@@ -35,7 +36,7 @@ Working Principle
 8.A servo motor rotates the camera toward the next lane 5 seconds before lane switching
 
 Hardware Components
-
+![image alt](https://github.com/Roshanskbhor/AI-based-adaptive-traffic-signal-system/blob/8ef6aed291357184681d5f8fce77b3d31c396bfd/Prototype_picture.jpeg)
 ESP32 Dev Module (Traffic Controller)
 ESP32-CAM (AI Thinker Module)
 Servo Motor (Camera rotation)
