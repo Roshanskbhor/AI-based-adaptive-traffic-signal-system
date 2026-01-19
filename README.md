@@ -48,3 +48,12 @@ Communication Protocols
 
 Wi-Fi – Image transmission from ESP32-CAM to backend
 MQTT – Vehicle count communication from backend to ESP32 controller
+
+
+Key Features
+
+1.Real-time adaptive traffic signal timing
+2.Lane-wise vehicle detection using computer vision
+3.MQTT-based low-latency communication
+4.Servo-based camera positioning
+5.Scalable and cost-effective system design
