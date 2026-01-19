@@ -9,6 +9,7 @@ Unlike traditional fixed-time traffic lights, this system responds to actual tra
 
 
 System Architecture
+![image alt](https://github.com/Roshanskbhor/AI-based-adaptive-traffic-signal-system/blob/8ef6aed291357184681d5f8fce77b3d31c396bfd/Prototype_picture.jpeg)
 The system consists of three major components:
 
 1]ESP32 Traffic Controller
